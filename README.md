@@ -3,7 +3,7 @@
 
 **Beyond Function Calling: Benchmarking Tool-Using Agents under Tool-Environment Unreliability**
 
-<a href="https://arxiv.org/pdf/2606.25819">📄 Technical Report</a> | <a href="https://huggingface.co/kkknight/MiniOneRec">🤗 Huggingface</a>
+<a href="https://arxiv.org/pdf/2606.25819">📄 Arxiv Paper</a> | <a href="https://huggingface.co/kkknight/MiniOneRec">🤗 Huggingface</a>
 </div>
 
 **ToolBench-X** is the first benchmark for evaluating **tool-using agents under recoverable tool-environment unreliability**, which features executable multi-step tool-use tasks, structured reliability hazards, and automatic evaluation of hazard diagnosis and recovery capabilities.
